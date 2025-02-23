@@ -15,6 +15,7 @@ BibTex:
   title={Stochastic Bandits with ReLU Neural Networks},
   author={Xu, Kan and Bastani, Hamsa and Goel, Surbhi and Bastani, Osbert},
   booktitle={International Conference on Machine Learning},
+  pages={54866--54887},
   year={2024},
   organization={PMLR}
 }
